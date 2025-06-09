@@ -5,7 +5,7 @@
   <a href="mailto:cody.houx@gmail.com">
     <img src="https://img.shields.io/badge/Email-cody.houx@gmail.com-blue?style=flat&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/codyhou">
+  <a href="https://linkedin.com/in/cody-hou">
     <img src="https://img.shields.io/badge/LinkedIn-codyhou-blue?style=flat&logo=linkedin" />
   </a>
   <a href="#">
