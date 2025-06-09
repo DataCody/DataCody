@@ -21,7 +21,7 @@ I'm an **Analytics Engineer** and **Data Scientist** with a passion for solving 
 ---
 
 ### 🤝 Let’s Connect
-- 📫 Email: codyhoux@gmail.com  
+- 📫 Email: cody.houx@gmail.com  
 - 🌐 [LinkedIn](https://linkedin.com/in/codyhou)  
 - 💼 [Portfolio / CV](#)
 
