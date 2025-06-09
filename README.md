@@ -13,8 +13,16 @@
   </a>
 </p>
 
-### 💡 My Current Tech Stack
+---
 
+### 🔬 What I’m Working On
+- 🦠 Modeling the spread of infectious diseases using travel & contact networks  
+- 🛬 Simulating lockdown policies in Pacific Island countries (Fiji, French Polynesia)  
+- 📈 Building reproducible pipelines for research & decision support  
+
+---
+
+### 💡 My Current Tech Stack & Interests
 <p align="left">
   <img src="https://img.shields.io/badge/dbt-%23FF694B.svg?logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
@@ -26,17 +34,6 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
 </p>
-
----
-
-### 🔬 What I’m Working On
-- 🦠 Modeling the spread of infectious diseases using travel & contact networks  
-- 🛬 Simulating lockdown policies in Pacific Island countries (Fiji, French Polynesia)  
-- 📈 Building reproducible pipelines for research & decision support  
-
----
-
-### 💡 Interests & Skills
 
 - 🏗️ Modern Data Stack: dbt, Dagster, Airbyte, Docker, MinIO, Dremio, Nessie  
 - ☁️ Cloud & Infra: AWS (S3, Lambda, Athena), GCP (BigQuery), Snowflake  
