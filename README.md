@@ -13,6 +13,20 @@
   </a>
 </p>
 
+### 💡 My Current Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/dbt-%23FF694B.svg?logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dagster-5C2D91?logo=d&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
+</p>
+
 ---
 
 ### 🔬 What I’m Working On
@@ -22,10 +36,13 @@
 
 ---
 
-### 💡 Research & Technical Interests
-- 🔍 Bayesian modeling, agent-based simulation, causal inference  
-- 🌏 Geospatial & epidemiological data visualization  
-- 🧪 Automation using Python, R, SQL, Power BI & Tableau  
+### 💡 Interests & Skills
+
+- 🏗️ Modern Data Stack: dbt, Dagster, Airbyte, Docker, MinIO, Dremio, Nessie  
+- ☁️ Cloud & Infra: AWS (S3, Lambda, Athena), GCP (BigQuery), Snowflake  
+- 🛠️ Data Tools: PostgreSQL, Power BI, Tableau, Excel  
+- 📦 Orchestration & Pipelines: ELT/ETL, Data Lakehouse, Analytics Engineering  
+- 👨‍🔬 Other Interests: Causal analysis, network simulation, geospatial analytics
 
 ---
 
