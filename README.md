@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
 
   <!-- Data Engineering -->
-  <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?logo=google-bigquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Dremio-34495E?logoColor=white" />
   <img src="https://img.shields.io/badge/MinIO-B00000?logo=min.io&logoColor=white" />
   <img src="https://img.shields.io/badge/Parquet-302F2F?logoColor=white" />
