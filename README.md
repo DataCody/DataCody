@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Portfolio-CV-blue?style=flat&logo=githubpages" />
   </a>
 </p>
-
+---
 ### 💡 My Current Tech Stack & Interests
 <p align="left">
   <!-- Languages & Notebooks -->
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </p>
 
-
+---
 
 - 🏗️ Modern Data Stack: dbt, Dagster, Airbyte, Docker, MinIO, Dremio, Nessie  
 - ☁️ Cloud & Infra: AWS (S3, Lambda, Athena), GCP (BigQuery), Snowflake  
