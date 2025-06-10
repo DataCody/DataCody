@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/MinIO-B00000?logo=min.io&logoColor=white" />
   <img src="https://img.shields.io/badge/Parquet-302F2F?logoColor=white" />
 
-    <!-- Cloud -->
+  <!-- Cloud -->
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" />
