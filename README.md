@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/Portfolio-CV-blue?style=flat&logo=githubpages" />
   </a>
 </p>
+
 ---
+
 ### 💡 My Current Tech Stack & Interests
 <p align="left">
   <!-- Languages & Notebooks -->
