@@ -32,13 +32,16 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
 
   <!-- Data Engineering -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/BigQuery-669DF6?logo=google-bigquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Dremio-34495E?logoColor=white" />
   <img src="https://img.shields.io/badge/MinIO-B00000?logo=min.io&logoColor=white" />
   <img src="https://img.shields.io/badge/Parquet-302F2F?logoColor=white" />
+
+    <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" />
   
   <!-- Databases / Storage -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
@@ -60,11 +63,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white" />
-
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" />
 
   <!-- Development Tools -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
