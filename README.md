@@ -31,6 +31,17 @@
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
 
+  <!-- Data Engineering -->
+  <img src="https://img.shields.io/badge/dbt-%23FF694B.svg?logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-E8783A?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dagster-5C2D91?logo=dagster&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" />
+
+
   <!-- Cloud -->
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" />
