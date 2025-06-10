@@ -15,12 +15,12 @@
 
 ---
 
-🔬 What I’m Working On
-	•	🚀 Building production-ready data platforms using Spark, dbt, Dagster, Superset & Streamlit for analytics and GenAI integration
-	•	🌏 Simulating infectious disease transmission across Pacific Island travel networks to support public health decision-making
-	•	📦 Developing modular data pipelines for real-time vector search, RAG (Retrieval-Augmented Generation), and automated reporting
-	•	🧠 Experimenting with lightweight LLMs (Mistral, Ollama) to build domain-specific assistants with private and secure local inference
-	•	📊 Designing dashboards & insights pipelines to analyze EV product data, sales conversion, and model configuration preferences
+### 🔬 What I’m Working On
+	•🚀 Building production-ready data platforms using Spark, dbt, Dagster, Superset & Streamlit for analytics and GenAI integration
+	•🌏 Simulating infectious disease transmission across Pacific Island travel networks to support public health decision-making
+	•📦 Developing modular data pipelines for real-time vector search, RAG (Retrieval-Augmented Generation), and automated reporting
+	•🧠 Experimenting with lightweight LLMs (Mistral, Ollama) to build domain-specific assistants with private and secure local inference
+	•📊 Designing dashboards & insights pipelines to analyze EV product data, sales conversion, and model configuration preferences
 
 ---
 
