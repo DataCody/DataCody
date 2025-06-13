@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Cody!</h1>
-<h3 align="center">Analytics Engineer | Data Scientist | Infectious Disease Modeler</h3>
+<h3 align="center">Analytics Engineer | Data Scientist | Data Analyst</h3>
 
 <p align="center">
   <a href="mailto:cody.houx@gmail.com">
