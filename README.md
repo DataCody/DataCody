@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/cody-hou">
     <img src="https://img.shields.io/badge/LinkedIn-codyhou-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="[https://github.com/DataCody/DataCody/](https://github.com/DataCody/DataCody/blob/main/CV.pdf)" target="_blank">
+<a href="https://github.com/DataCody/DataCody/blob/main/CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-CV-blue?style=flat&logo=githubpages" />
   </a>
 </p>
