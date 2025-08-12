@@ -100,8 +100,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataCody&layout=compact&theme=github_dark" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api?username=DataCody&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataCody&layout=compact&theme=github_dark" width="48%" />
 </p>
 
 ---
