@@ -9,10 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-codyhou-blue?style=flat&logo=linkedin" />
   </a>
 <a href="https://datacody.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/MySite-Online-blue?style=flat&logo=githubpages" />
-  </a>
-<a href="https://github.com/DataCody/DataCody/blob/main/CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-CV-blue?style=flat&logo=githubpages" />
+    <img src="https://img.shields.io/badge/Portfolio-Online-blue?style=flat&logo=githubpages" />
   </a>
 </p>
 
