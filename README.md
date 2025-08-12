@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -68,6 +68,7 @@
     <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
     <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
     <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
     </td>
   </tr>
     <td>MLOps / ML</td>
@@ -80,10 +81,10 @@
   </tr>
     <td>Development Tools</td>
     <td>
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
     </td>
   </tr>
 </table>
