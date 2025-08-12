@@ -15,6 +15,12 @@
 
 ---
 
+### 🚀 About Me
+
+Data scientist & engineer building scalable analytics and AI solutions across public health, renewable energy, and emerging tech. I develop production-ready platforms with Spark, dbt, and Dagster, model infectious disease transmission for policy impact, and design analytics pipelines for EV products and battery energy storage systems—accelerating sustainable adoption and bridging complex data with real-world decisions.
+
+---
+
 ### 💡 My Current Tech Stack & Interests
 <table>
   <tr>
@@ -103,12 +109,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataCody&layout=compact&theme=github_dark" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api?username=DataCody&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="50%" />
 </p>
-
----
-
-### 🚀 About Me
-
-Driven by curiosity and real-world impact, I work at the intersection of data science, public health, and simulation modeling. I believe in turning complex data into meaningful insights to support better decisions.
 
 ---
 
