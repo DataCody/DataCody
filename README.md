@@ -17,8 +17,11 @@
 
 ### 🚀 About Me
 
-Data scientist & engineer building scalable analytics and AI solutions across public health, renewable energy, and emerging tech. I develop production-ready platforms with Spark, dbt, and Dagster, model infectious disease transmission for policy impact, and design analytics pipelines for EV products and battery energy storage systems—accelerating sustainable adoption and bridging complex data with real-world decisions.
+I am a **Data Engineer** building **scalable data pipelines, analytics, and AI solutions** across **public health, renewable energy, and emerging tech**.  
 
+I develop **production-ready platforms** using **Spark, dbt, and Dagster**, model **infectious disease transmission** for policy impact, and design **analytics pipelines** for **EV products and battery energy storage systems**.  
+
+My work bridges **complex data with real-world decisions**, accelerating **sustainable adoption** and enabling actionable insights.
 ---
 
 ### 💡 My Current Tech Stack & Interests
@@ -61,7 +64,7 @@ Data scientist & engineer building scalable analytics and AI solutions across pu
     <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white" />
     <img src="https://img.shields.io/badge/BigQuery-669DF6?logo=google-bigquery&logoColor=white" />
     <img src="https://img.shields.io/badge/Dremio-34495E?logoColor=white" />
-    <img src="https://img.shields.io/badge/MinIO-B00000?logo=min.io&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon%20S3-232F3E?logo=amazon-s3&logoColor=white" />
     <img src="https://img.shields.io/badge/Parquet-302F2F?logoColor=white" />
     </td>
   </tr>
@@ -95,11 +98,11 @@ Data scientist & engineer building scalable analytics and AI solutions across pu
 ---
 
 ### 🔬 What I’m Working On
-- 🚀 Building production-ready data platforms using Spark, dbt, Dagster, Superset & Streamlit for analytics and GenAI integration
-- 🌏 Simulating infectious disease transmission across Pacific Island travel networks to support public health decision-making
-- 📦 Developing modular data pipelines for real-time vector search, RAG (Retrieval-Augmented Generation), and automated reporting
-- 🧠 Experimenting with lightweight LLMs (Mistral, Ollama) to build domain-specific assistants with private and secure local inference
-- 📊 Designing dashboards & insights pipelines to analyze EV product data, sales conversion, and model configuration preferences
+- 🚀 Building **production-ready data platforms** with **Spark, dbt, Dagster, Superset, and Streamlit**, integrating analytics and Generative AI.
+- 🌏 Simulating **infectious disease transmission** across Pacific Island travel networks to inform public health decisions.
+- 📦 Developing **modular data pipelines** for **real-time vector search, RAG (Retrieval-Augmented Generation),** and automated reporting.
+- 🧠 Experimenting with **lightweight LLMs** (Mistral, Ollama) to create **domain-specific assistants** with secure local inference.
+- 📊 Designing **dashboards and analytics pipelines** to analyze **EV product data, sales conversions,** and model configuration preferences.
 
 ---
 
