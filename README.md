@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Cody!</h1>
-<h3 align="center">Data Analyst | Analytics Engineer | Data Engineer | Data Scientist</h3>
+<h3 align="center">Data Engineer ｜ Analytics Engineer ｜ ML Enthusiast</h3>
+<p align="center">⚡ Designing scalable pipelines • Automating data workflows • Powering AI & Analytics</p>
 
 <p align="center">
   <a href="mailto:cody.houx@gmail.com">
