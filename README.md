@@ -17,17 +17,17 @@
 
 ### 🚀 About Me
 
-I am a **Data Engineer** building **scalable data pipelines, analytics, and AI solutions** across **public health, renewable energy, and emerging tech**.  
+I am a **Data Engineer** building **scalable data pipelines, analytics, and AI solutions** across **renewable energy, SMB, and public health**.  
 
 I develop **production-ready platforms** using **Spark, dbt, and Dagster**, model **infectious disease transmission** for policy impact, and design **analytics pipelines** for **EV products and battery energy storage systems**.  
 
 My work bridges **complex data with real-world decisions**, accelerating **sustainable adoption** and enabling actionable insights.
----
 
+---
 ### 💡 My Current Tech Stack & Interests
 <table>
   <tr>
-    <td>Languages & Notebooks</td>
+    <td>Languages</td>
     <td>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white" />
